@@ -1,9 +1,6 @@
 ![MasterHead](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-computer_3482-6985.jpg?w=1000)
 <h1 align="center">Hello 👋, I'm Ritankar Pal</h1>
-<h3 align="center">I am a dedicated individual with a passion to become a developer starting with front-end development. Eager to learn something new every day.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
-
-- 🌱 I’m currently learning **JAVA**
 
 - 📫 How to reach me **ritankar0425@gmail.com**
 
