@@ -1,8 +1,8 @@
 ![MasterHead](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-computer_3482-6985.jpg?w=1000)
 <h1 align="center">Hello 👋, I'm Ritankar Pal</h1>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
-- 📫 How to reach me **ritankar0425@gmail.com**
+
+- 📫 How to reach me **ritankar2504@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
