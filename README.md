@@ -1,4 +1,3 @@
-![MasterHead](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-computer_3482-6985.jpg?w=1000)
 <h1 align="center">Hello 👋, I'm Ritankar Pal</h1>
 
 
