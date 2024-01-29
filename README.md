@@ -1,7 +1,10 @@
 <h1 align="center">Hello 👋, I'm Ritankar Pal</h1>
+</br>
+</br>
+</br>
+</br>
 
-
-- 📫 How to reach me **ritankar2504@gmail.com**
+📫 Reach Me at **ritankar2504@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
