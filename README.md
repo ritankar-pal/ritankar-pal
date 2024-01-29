@@ -1,7 +1,7 @@
 <h1>Hello 👋, I'm Ritankar Pal</h1>
 <br/>
 
-<p>Enthusiastic and an aspiring developer passionate about creating innovative solutions and contributing to the ever-evolving tech landscape</p>
+<p>Enthusiastic and an aspiring developer passionate about creating innovative solutions and contributing to the ever-evolving tech landscape.</p>
 
 📫 Reach Me at **ritankar2504@gmail.com**
 
