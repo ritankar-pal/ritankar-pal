@@ -1,8 +1,7 @@
-<h1 align="center">Hello 👋, I'm Ritankar Pal</h1>
-</br>
-</br>
-</br>
-</br>
+<h1>Hello 👋, I'm Ritankar Pal</h1>
+<br/>
+<br/>
+<br/>
 
 📫 Reach Me at **ritankar2504@gmail.com**
 
