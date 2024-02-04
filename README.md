@@ -3,7 +3,7 @@
 
 <p>Enthusiastic and an aspiring developer passionate about creating innovative solutions and contributing to the ever-evolving tech landscape.</p>
 
-📫 Reach Me at **ritankar2504@gmail.com**
+📫 Reach Me at **ritankar0425@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
